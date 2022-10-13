@@ -8,3 +8,6 @@ Here are some examples of guided projects that I have done.
 
 ### Data Visualization Projects
 - [I-94 Traffic Data](https://github.com/bikkanda/guided_projects/blob/f154e308679cebccc8e743f93e4306d6fe36c8a9/Data%20Visualization%20Traffic%20Project.ipynb)
+
+### Data Cleaning and Analysis Projects
+- [NYC School Data]()
